@@ -4,8 +4,5 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the data
-
-
-
-
-
+def readcsv(file):
+    return pd.read_csv(file)
