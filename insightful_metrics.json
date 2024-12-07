@@ -1,0 +1,74 @@
+[
+    {
+        "Metric": "Average Sales Per Day",
+        "Value": "37.44"
+    },
+    {
+        "Metric": "Top Day(s) of the Week for Sales (quantity sold)",
+        "Value": "Wednesday, Thursday, Friday"
+    },
+    {
+        "Metric": "Top Day of the Week for Sales (total sales)",
+        "Value": "Thursday"
+    },
+    {
+        "Metric": "Sales Percentage by Top Day of the Week",
+        "Value": "22.25%"
+    },
+    {
+        "Metric": "Top Month for Sales (quantity sold)",
+        "Value": "March"
+    },
+    {
+        "Metric": "Top Month for Sales (total sales)",
+        "Value": "March"
+    },
+    {
+        "Metric": "Top Quarter for Sales (quantity sold)",
+        "Value": "1"
+    },
+    {
+        "Metric": "Top Quarter for Sales (total sales)",
+        "Value": "1"
+    },
+    {
+        "Metric": "Daily Sales Growth Rate (Avg %)",
+        "Value": "33.86%"
+    },
+    {
+        "Metric": "Monthly Sales Growth Rate (Avg %)",
+        "Value": "1.54%"
+    },
+    {
+        "Metric": "Quarterly Sales Growth Rate (Avg %)",
+        "Value": "nan%"
+    },
+    {
+        "Metric": "Total Quantity Sold",
+        "Value": 72
+    },
+    {
+        "Metric": "Top Selling Product (Quantity)",
+        "Value": "203"
+    },
+    {
+        "Metric": "Top Selling Product (Sales)",
+        "Value": "206"
+    },
+    {
+        "Metric": "Average Revenue Per Transaction",
+        "Value": "37.44"
+    },
+    {
+        "Metric": "Average Revenue Per Customer",
+        "Value": "37.44"
+    },
+    {
+        "Metric": "Average Price Per Unit Sold",
+        "Value": "8.07"
+    },
+    {
+        "Metric": "Churn Rate (%)",
+        "Value": "100.00%"
+    }
+]
