@@ -1,19 +1,19 @@
 Metric,Value
-Average Sales Per Day,37.44
-Top Day(s) of the Week for Sales (quantity sold),"Wednesday, Thursday, Friday"
-Top Day of the Week for Sales (total sales),Thursday
-Sales Percentage by Top Day of the Week,22.25%
+Average Sales Per Day,396.63
+Top Day(s) of the Week for Sales (quantity sold),Sunday
+Top Day of the Week for Sales (total sales),Sunday
+Sales Percentage by Top Day of the Week,16.81%
 Top Month for Sales (quantity sold),March
 Top Month for Sales (total sales),March
 Top Quarter for Sales (quantity sold),1
-Top Quarter for Sales (total sales),1
-Daily Sales Growth Rate (Avg %),33.86%
-Monthly Sales Growth Rate (Avg %),1.54%
-Quarterly Sales Growth Rate (Avg %),nan%
-Total Quantity Sold,72
-Top Selling Product (Quantity),203
-Top Selling Product (Sales),206
-Average Revenue Per Transaction,37.44
-Average Revenue Per Customer,37.44
-Average Price Per Unit Sold,8.07
-Churn Rate (%),100.00%
+Top Quarter for Sales (total sales),2
+Daily Sales Growth Rate (Avg %),29.02%
+Monthly Sales Growth Rate (Avg %),0.15%
+Quarterly Sales Growth Rate (Avg %),-20.22%
+Total Quantity Sold,23731
+Top Selling Product (Quantity),291
+Top Selling Product (Sales),291
+Average Revenue Per Transaction,399.91
+Average Revenue Per Customer,6936.96
+Average Price Per Unit Sold,7.04
+Repeat Customer (%),59.89%
